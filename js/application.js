@@ -14,7 +14,7 @@ window.requestAnimationFrame(function () {
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-rainbow-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-space-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-sunglasses-212.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-212.gif",
+        "http://paulbramsen.github.io/hkn2048/img/212/k-lian-212.gif",
         "http://paulbramsen.github.io/hkn2048/img/212/alec-mouri-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-derp-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-fat-114.gif",
@@ -25,7 +25,7 @@ window.requestAnimationFrame(function () {
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-rainbow-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-space-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-sunglasses-114.gif",        
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-114.gif",
+        "http://paulbramsen.github.io/hkn2048/img/212/k-lian-212.gif",
         "http://paulbramsen.github.io/hkn2048/img/114/alec-mouri-114.gif",
     ];
     for(var i = 0; i < imageList.length; i++ ) 
