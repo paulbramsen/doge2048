@@ -1,7 +1,7 @@
 # HKN2048
 Just a couple of minor tweaks to Gabriele Cirulli's code base [here](https://github.com/gabrielecirulli/2048)
 
-Made just for an HKN Mu chapter challenge. [Play it here!](INSERT URL)
+Made just for an HKN Mu chapter challenge. [Play it here!](http://paulbramsen.github.io/hkn2048/)
 
 
 ## License
