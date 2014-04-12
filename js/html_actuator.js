@@ -10,8 +10,8 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['such good', 'so amaze', 'many points', 'very unstoppable', 'great jorb', 'such playing', 'very good', 'points', 'very gaming', 'such player', 'concern' ,'bewildered',
-'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'such playing', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
+var dogeSayings = ['wow', 'such eecs', 'many code', 'much electric', 'so officers', 'bright colors', 'how circuits', 'very HKN', 'wow eecs', 'such akshay', 'so alec' ,'much kyle',
+'very brian', 'so edwin', 'wow jack', 'such mark', 'very soumya', 'such varun', 'many stephanie', 'such hacking', 'very matched', 'much skill' , 'such matching',]
 
 var ads = [
 
