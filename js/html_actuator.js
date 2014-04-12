@@ -11,7 +11,7 @@ function HTMLActuator() {
 }
 
 var dogeSayings = ['wow', 'such eecs', 'many code', 'much electric', 'so officers', 'bright colors', 'how circuits', 'very HKN', 'wow eecs', 'such akshay', 'so alec' ,'much kyle',
-'very brian', 'so edwin', 'wow jack', 'such mark', 'very soumya', 'such varun', 'many stephanie', 'such hacking', 'very matched', 'much skill' , 'such matching',]
+'very brian', 'so edwin', 'wow jack', 'such mark', 'very soumya', 'such varun', 'many stephanie', 'such hacking', 'much squares', 'much skill' , 'such matching',]
 
 var ads = [
 
